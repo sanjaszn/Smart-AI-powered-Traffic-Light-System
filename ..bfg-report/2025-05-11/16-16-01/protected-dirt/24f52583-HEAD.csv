@@ -1,0 +1,5 @@
+0fad1851933cf324b8ae53477298a7675ff62f9f,DELETE,regular-file,.venv/Lib/site-packages/torch/lib/dnnl.lib,404759602,
+0344427a6880970b4dd9b8080c1ec9bd295e1790,DELETE,regular-file,.venv/Lib/site-packages/torch/lib/torch_cpu.dll,248619008,
+d3362bf585b3b52f23cd843c3f4ed22b4b2827a6,DELETE,regular-file,data/raw/roadTrafficVideo.mp4,510414444,
+9d4ed3645f72d2e6b2438a91c62f816452527be7,DELETE,regular-file,data/raw/trafficVid_stable.mp4,313490624,
+97fc7792c1beb0af75246316caa14d2c3ddf46f4,DELETE,regular-file,data/raw/trafficVid_stable_v2.mp4,324737482,
